@@ -1,2 +1,5 @@
-use mongodb compass version 4.0
+use mongodb compass version 6.0
 do directConnection=true in mongoapp
+ 
+at video 48 ,problem was setting mongodb and thunderclient ...
+in thunderclient ,buffering timeout problem solution link :https://www.youtube.com/watch?v=JJFP5__G3-Y
